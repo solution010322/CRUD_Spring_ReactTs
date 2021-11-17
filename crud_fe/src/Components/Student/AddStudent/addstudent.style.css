@@ -1,0 +1,11 @@
+.addStudent_register{
+    display: flex;
+    flex-direction: column;
+}
+.addStudent_register > input {
+    width: 25%;
+}
+
+.addStudent_register > button {
+    width: 25%;
+}
